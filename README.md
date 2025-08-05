@@ -24,11 +24,10 @@ Todos los resultados se visualizaron utilizando gráficos de barras para facilit
 ### Contenido del Repositorio
 
 Este notebook de Google Colab contiene todo el código utilizado para el análisis, desde la carga de datos hasta la generación de gráficos. Aquí se presentan los resultados detallados y las visualizaciones para cada uno de los cinco puntos de evaluación.
--   **`README.md`**: El archivo que estás leyendo, que resume el proyecto y su metodología.
 
 ### Conclusión
 
-Basado en el análisis de las métricas de **facturación**, **productos más vendidos**, **calificación del cliente** y **costo de envío**, se recomienda al Sr. Juan que considere vender la tienda [**inserta el número de la tienda aquí**]. Esta tienda mostró el desempeño más bajo en [**menciona las métricas específicas en las que tuvo un mal desempeño, por ejemplo: "ingresos totales y calificación promedio del cliente"**], lo que la convierte en la candidata más adecuada para ser vendida.
+Basado en el análisis de las métricas de **facturación**, **productos más vendidos**, **calificación del cliente** y **costo de envío**, se recomienda al Sr. Juan que considere vender la tienda [4]. Esta tienda mostró el desempeño más bajo en [**menciona las métricas específicas en las que tuvo un mal desempeño, por ejemplo: "ingresos totales y calificación promedio del cliente"**], lo que la convierte en la candidata más adecuada para ser vendida.
 
 Este análisis proporciona una base sólida para que el Sr. Juan tome una decisión informada y estratégica para su nueva inversión.
 
